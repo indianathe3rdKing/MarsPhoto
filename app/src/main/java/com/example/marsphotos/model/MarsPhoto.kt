@@ -1,4 +1,4 @@
-package com.example.marsphotos.data
+package com.example.marsphotos.model
 
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
